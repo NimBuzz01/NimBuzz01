@@ -10,9 +10,9 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **a discord bot**
+ 🔭 I’m currently building **Web Apps**
  
- 🌱 I’m currently learning **Python, NextJS and Prisma**
+ 🌱 I’m currently learning **Framer Motion**
 
 ⚡ Fun fact **The original name for the search engine Google was 'Backrub.' Imagine if we were still 'Backrubbing' things today instead of Googling them. It's a good thing they reconsidered!**
 
