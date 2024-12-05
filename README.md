@@ -12,7 +12,7 @@
  
  🔭 I’m currently building **Web Apps**
  
- 🌱 I’m currently learning **Framer Motion**
+ 🌱 I’m currently learning **Testing Libraries**
 
 ⚡ Fun fact **The original name for the search engine Google was 'Backrub.' Imagine if we were still 'Backrubbing' things today instead of Googling them. It's a good thing they reconsidered!**
 
@@ -25,7 +25,7 @@
   <a href="https://www.linkedin.com/in/niamatm/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
-  <a href="https://niamatmarjan.vercel.app/" target="_blank">
+  <a href="https://www.niamatmarjan.com/" target="_blank">
      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" />
   </a>
 </div>
