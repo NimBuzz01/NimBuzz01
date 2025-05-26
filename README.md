@@ -4,17 +4,15 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Niamat+Marjan!;" />
 </h1>
 
-<h3 align="center">A passionate software developer from Sri Lanka</h3>
+<h3 align="center">A passionate software engineer from Sri Lanka</h3>
 
 <br/>
 
 <div align="center">
  
- 🔭 I’m currently building **Web Apps**
+ 🔭 I’m currently building **.NET Server**
  
- 🌱 I’m currently learning **Testing Libraries**
-
-⚡ Fun fact **The original name for the search engine Google was 'Backrub.' Imagine if we were still 'Backrubbing' things today instead of Googling them. It's a good thing they reconsidered!**
+ 🌱 I’m currently learning **.NET Core**
 
  </div>
  
